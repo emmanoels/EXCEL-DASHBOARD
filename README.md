@@ -17,6 +17,6 @@ Customizable: Easily adaptable for other datasets and performance metrics.
 3. K-Mall: Significant improvement, contributing 133,200.8 in 2023.
 4. Drinks-Hub: Experienced a decline (-86,155.6).
 ## Insights
-Retailers like Grand-Mall and Shop-Left played pivotal roles in sales growth.
-Coca-Cola brands saw strong year-over-year performance, with Diet Coke leading in variance improvement.
-Drinks-Hub's performance calls for further investigation to identify potential issues.
+1. Retailers like Grand-Mall and Shop-Left played pivotal roles in sales growth.
+2. Coca-Cola brands saw strong year-over-year performance, with Diet Coke leading in variance improvement.
+3. Drinks-Hub's performance calls for further investigation to identify potential issues.
