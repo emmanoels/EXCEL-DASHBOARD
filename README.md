@@ -20,3 +20,16 @@ Customizable: Easily adaptable for other datasets and performance metrics.
 1. Retailers like Grand-Mall and Shop-Left played pivotal roles in sales growth.
 2. Coca-Cola brands saw strong year-over-year performance, with Diet Coke leading in variance improvement.
 3. Drinks-Hub's performance calls for further investigation to identify potential issues.
+### Getting Started
+1. Open the MY MAIN EXCEL PROJECT WORK.xlsb file in Microsoft Excel.
+2. Navigate to the DASHBOARD sheet for visual insights.
+3. Review the Source_Data sheet for raw data and the Analyze sheet for detailed calculations.
+### Prerequisites
+1. Microsoft Excel (version 2016 or later recommended).
+2. Basic understanding of Excel functions and Power Query for customization.
+### Future Enhancements
+1. Add dynamic slicers for better data filtering.
+2. Integrate external data sources for real-time updates.
+3. Expand retailer and brand analysis to include regional performance.
+### Contact
+For questions or suggestions, please reach out to the project maintaine
