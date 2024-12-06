@@ -32,4 +32,4 @@ Customizable: Easily adaptable for other datasets and performance metrics.
 2. Integrate external data sources for real-time updates.
 3. Expand retailer and brand analysis to include regional performance.
 ### Contact
-For questions or suggestions, please reach out to the project maintaine
+For questions or suggestions, please reach out to the project maintainer
