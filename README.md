@@ -16,3 +16,7 @@ Grand-Mall: Outstanding growth (+474,307.3), with 589,183.3 sales in 2023.
 Shop-Left: Strong performance (+542,064.6).
 K-Mall: Significant improvement, contributing 133,200.8 in 2023.
 Drinks-Hub: Experienced a decline (-86,155.6).
+## Insights
+Retailers like Grand-Mall and Shop-Left played pivotal roles in sales growth.
+Coca-Cola brands saw strong year-over-year performance, with Diet Coke leading in variance improvement.
+Drinks-Hub's performance calls for further investigation to identify potential issues.
